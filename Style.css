@@ -1,0 +1,30 @@
+img{
+	  border-radius 20%;	
+	  filter grayscale(5%);
+}
+
+body{
+		background-color	#00FFFF;
+		font-family  Arial;
+}
+
+.red{
+	colorred;
+	
+}
+
+.bigFont{
+	font-size32px;	
+}
+
+#specialStyle{
+	border 2xp solid red;
+	background-color yellow;
+}
+		
+
+
+
+!-- class מתחילים בנקודה--		
+!-- id מתחיל ב# --		
+
